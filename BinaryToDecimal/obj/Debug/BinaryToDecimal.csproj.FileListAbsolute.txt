@@ -1,0 +1,1 @@
+d:\bogda\documents\visual studio 2013\Projects\CSharp Homeworks Part2\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
