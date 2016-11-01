@@ -1,0 +1,5 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\HexToDecimal\bin\Debug\HexToDecimal.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\HexToDecimal\bin\Debug\HexToDecimal.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\HexToDecimal\bin\Debug\HexToDecimal.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\HexToDecimal\obj\Debug\HexToDecimal.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\HexToDecimal\obj\Debug\HexToDecimal.pdb

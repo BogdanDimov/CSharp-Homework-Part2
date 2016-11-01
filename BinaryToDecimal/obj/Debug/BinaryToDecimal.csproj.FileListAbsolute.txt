@@ -1,1 +1,7 @@
 d:\bogda\documents\visual studio 2013\Projects\CSharp Homeworks Part2\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

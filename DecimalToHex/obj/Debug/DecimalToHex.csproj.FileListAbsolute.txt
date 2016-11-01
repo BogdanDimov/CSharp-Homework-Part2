@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\DecimalToHex\bin\Debug\DecimalToHex.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\DecimalToHex\bin\Debug\DecimalToHex.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\DecimalToHex\bin\Debug\DecimalToHex.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\DecimalToHex\obj\Debug\DecimalToHex.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\DecimalToHex\obj\Debug\DecimalToHex.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\DecimalToHex\obj\Debug\DecimalToHex.pdb
