@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexToDecimal", "HexToDecima
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCD", "GCD\GCD.csproj", "{DC6BC5BC-4605-4249-8A6A-158563EDE8F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrailingZeroInN!", "TrailingZeroInN!\TrailingZeroInN!.csproj", "{32E9C10A-DD3A-417F-802B-FD038BEA1633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralMatrix", "SpiralMatrix\SpiralMatrix.csproj", "{05271DCA-5146-4001-BB95-D245765F669C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{DC6BC5BC-4605-4249-8A6A-158563EDE8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC6BC5BC-4605-4249-8A6A-158563EDE8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC6BC5BC-4605-4249-8A6A-158563EDE8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E9C10A-DD3A-417F-802B-FD038BEA1633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E9C10A-DD3A-417F-802B-FD038BEA1633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E9C10A-DD3A-417F-802B-FD038BEA1633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E9C10A-DD3A-417F-802B-FD038BEA1633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05271DCA-5146-4001-BB95-D245765F669C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05271DCA-5146-4001-BB95-D245765F669C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05271DCA-5146-4001-BB95-D245765F669C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05271DCA-5146-4001-BB95-D245765F669C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

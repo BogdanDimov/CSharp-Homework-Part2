@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\TrailingZeroInN!\bin\Debug\TrailingZeroInN!.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\TrailingZeroInN!\bin\Debug\TrailingZeroInN!.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\TrailingZeroInN!\bin\Debug\TrailingZeroInN!.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\TrailingZeroInN!\obj\Debug\TrailingZeroInN!.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\TrailingZeroInN!\obj\Debug\TrailingZeroInN!.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\TrailingZeroInN!\obj\Debug\TrailingZeroInN!.pdb
