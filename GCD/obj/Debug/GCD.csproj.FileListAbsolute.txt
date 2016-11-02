@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\GCD\bin\Debug\GCD.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\GCD\bin\Debug\GCD.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\GCD\bin\Debug\GCD.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\GCD\obj\Debug\GCD.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\GCD\obj\Debug\GCD.pdb
