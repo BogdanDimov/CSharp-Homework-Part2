@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SelectionSort\bin\Debug\SelectionSort.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SelectionSort\bin\Debug\SelectionSort.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SelectionSort\bin\Debug\SelectionSort.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SelectionSort\obj\Debug\SelectionSort.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\SelectionSort\obj\Debug\SelectionSort.pdb

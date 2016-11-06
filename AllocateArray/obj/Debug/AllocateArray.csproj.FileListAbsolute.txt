@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\AllocateArray\bin\Debug\AllocateArray.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\AllocateArray\obj\Debug\AllocateArray.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\AllocateArray\bin\Debug\AllocateArray.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\AllocateArray\bin\Debug\AllocateArray.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\AllocateArray\obj\Debug\AllocateArray.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\AllocateArray\obj\Debug\AllocateArray.pdb

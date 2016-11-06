@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalKSum\bin\Debug\MaximalKSum.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalKSum\bin\Debug\MaximalKSum.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalKSum\bin\Debug\MaximalKSum.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalKSum\obj\Debug\MaximalKSum.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalKSum\obj\Debug\MaximalKSum.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalKSum\obj\Debug\MaximalKSum.csprojResolveAssemblyReference.cache

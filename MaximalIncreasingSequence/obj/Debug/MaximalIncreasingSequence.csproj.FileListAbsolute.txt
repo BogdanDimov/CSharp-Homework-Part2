@@ -1,0 +1,5 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb
