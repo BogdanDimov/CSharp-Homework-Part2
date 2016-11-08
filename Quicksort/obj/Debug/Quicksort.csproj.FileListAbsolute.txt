@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\Quicksort\bin\Debug\Quicksort.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\Quicksort\bin\Debug\Quicksort.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\Quicksort\bin\Debug\Quicksort.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\Quicksort\obj\Debug\Quicksort.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\Quicksort\obj\Debug\Quicksort.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\Quicksort\obj\Debug\Quicksort.pdb

@@ -1,0 +1,1 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\CompareArrays\bin\Debug\CompareArrays.exe.config

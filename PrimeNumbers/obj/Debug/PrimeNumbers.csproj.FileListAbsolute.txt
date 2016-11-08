@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
