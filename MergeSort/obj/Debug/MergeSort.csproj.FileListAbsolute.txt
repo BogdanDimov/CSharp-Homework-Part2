@@ -1,0 +1,6 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MergeSort\bin\Debug\MergeSort.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MergeSort\bin\Debug\MergeSort.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MergeSort\bin\Debug\MergeSort.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MergeSort\obj\Debug\MergeSort.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MergeSort\obj\Debug\MergeSort.pdb

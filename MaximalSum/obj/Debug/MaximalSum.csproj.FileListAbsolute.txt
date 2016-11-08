@@ -1,0 +1,5 @@
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalSum\bin\Debug\MaximalSum.exe.config
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalSum\bin\Debug\MaximalSum.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalSum\bin\Debug\MaximalSum.pdb
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalSum\obj\Debug\MaximalSum.exe
+D:\bogda\Documents\Visual Studio 2013\Projects\CSharp-Homework Part2\MaximalSum\obj\Debug\MaximalSum.pdb
