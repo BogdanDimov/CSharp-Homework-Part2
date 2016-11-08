@@ -10,21 +10,34 @@ namespace MaximalSum
     {
         static void Main(string[] args)
         {
-            string s = Console.ReadLine();
-            char[] a = s.ToCharArray();
 
-            for (int i = 0; i < a.Length; i++)
+            int n = int.Parse(Console.ReadLine());
+
+            int[] arr = new int[n];
+
+            for (int i = 0; i < n; i++)
             {
-                if (Char.IsUpper(a[i]))
-                {
-                    Console.WriteLine(a[i] - 65); // letter is capital
-                }
-                else
-                {
-                    Console.WriteLine(a[i] - 97); // letter is small
-                }
-
+                arr[i] = int.Parse(Console.ReadLine());
             }
+
+            int maxsum, beginmax, endmax, sum; maxsum = beginmax = sum = 0; endmax = -1;
+
+            for (int i = 0; i < n; i++)
+            {
+                sum = 0;
+                for (int k = i; k < n; k++)
+                {
+                    sum += arr[k];
+                    if (sum > maxsum)
+                    {
+                        maxsum = sum;
+                        beginmax = i;
+                        endmax = k;
+                    }
+                }
+            }
+
+            Console.WriteLine(maxsum);
         }
     }
 }
