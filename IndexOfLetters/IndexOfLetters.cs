@@ -23,7 +23,6 @@ namespace MaximalSum
                 {
                     Console.WriteLine(a[i] - 97); // letter is small
                 }
-
             }
         }
     }
